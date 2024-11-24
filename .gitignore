@@ -1,0 +1,4 @@
+.env
+linked_post_venv/
+
+src/__pycache__/*
